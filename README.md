@@ -22,6 +22,23 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 4:15 p.m.
 
-Finish time: _____
+Finish time: 5:05 p.m.
 
-Actual time needed to complete: _____
+Actual time needed to complete: 50 minutes
+
+[linkedin icon](https://fontawesome.com/v5/icons/linkedin-in?f=brands&s=solid)
+
+---
+
+### Number and name of feature: Projects Section
+
+Estimate of time needed to complete: 1.5 hours
+
+Start time: 5:30 p.m. 
+
+Finish time:  p.m. 
+
+Actual time needed to complete: 
+
+[dev icons](https://devicon.dev/)
+---
