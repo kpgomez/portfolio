@@ -84,37 +84,49 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "DHL Global Forwarding",
+        "title": "Customs Operations Agent, FTZ",
+        "years": "03.2019 - 09.2019",
         "mainTech": [
-          "Angular 8/9/10"
+          "Microsoft Excel"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "PDFSam"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Samsung Data Systems",
+        "title": "Logistics Coordinator",
+        "years": "07.2018 - 03.2019",
         "mainTech": [
-          "Angular 7/8"
+          "TMS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Microsoft Excel",
+          "Microsoft Outlook"
+        ]
+      },
+      {
+        "company": "DHL Global Forwarding",
+        "title": "Customer Program Manager",
+        "years": "02.2015 - 06.2017",
+        "mainTech": [
+          "Microsoft Excel"
+        ],
+        "technologies": [
+          "CargoWise", 
+          "WMS"
+        ]
+      },
+      {
+        "company": "DHL Global Forwarding",
+        "title": "Key Account Coordinator",
+        "years": "07.2014 - 02.2015",
+        "mainTech": [
+          "Microsoft Excel"
+        ],
+        "technologies": [
+          "TMS"
         ]
       }
     ]

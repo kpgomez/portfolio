@@ -4,7 +4,7 @@
 
 ---
 
-### Number and name of feature: Clone Template and Deploy
+### #1 Clone Template and Deploy
 
 Estimate of time needed to complete: 1 hour
 
@@ -16,7 +16,7 @@ Actual time needed to complete: 30 minutes
 
 ---
 
-### Number and name of feature: About Me Page
+### #2 About Me Page
 
 Estimate of time needed to complete: 1 hour
 
@@ -30,15 +30,29 @@ Actual time needed to complete: 50 minutes
 
 ---
 
-### Number and name of feature: Projects Section
+### #3 Projects Section
 
 Estimate of time needed to complete: 1.5 hours
 
 Start time: 5:30 p.m. 
 
-Finish time:  p.m. 
+Finish time:  6:30 p.m. 
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 hr
+
+[dev icons](https://devicon.dev/)
+
+---
+
+### #4 Skills and Experience Section
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 7:00 p.m. 
+
+Finish time:  7:30 p.m. 
+
+Actual time needed to complete: 30 minutes
 
 [dev icons](https://devicon.dev/)
 ---
