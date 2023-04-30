@@ -2,6 +2,8 @@
 
 [Portfolio URL](kpgomez-portfolio.netlify.app)
 
+[Trello board](https://trello.com/b/C08MmODn/react-portfolio)
+
 ---
 
 ### #1 Clone Template and Deploy
@@ -55,4 +57,19 @@ Finish time:  7:30 p.m.
 Actual time needed to complete: 30 minutes
 
 [dev icons](https://devicon.dev/)
+
+---
+
+### #5 Personalize
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 7:45 p.m. 
+
+Finish time:  8:45 p.m.
+
+Actual time needed to complete: 1 hour
+
+[more dev icons](https://fontawesome.com/v5/icons/usb?f=brands&s=solid&sz=lg)
+
 ---
